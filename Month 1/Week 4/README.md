@@ -15,7 +15,7 @@ hello_flutter/ → lib/ → main.dart → MyApp (StatelessWidget) → MaterialAp
 
 ## Screenshot
 
-![App Screenshot](app_screenshot.png)
+<img width="946" height="558" alt="app_screenshot" src="https://github.com/user-attachments/assets/e6a208a4-94d3-4f09-ba2a-ba3247c5684c" />
 
 ## How to Run
 1. Ensure Flutter is installed
