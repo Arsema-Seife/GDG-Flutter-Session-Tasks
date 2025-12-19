@@ -1,3 +1,5 @@
+
+=======
 # Hello Flutter App
 
 My first Flutter application following the assignment instructions.
@@ -18,4 +20,5 @@ hello_flutter/ → lib/ → main.dart → MyApp (StatelessWidget) → MaterialAp
 ## How to Run
 1. Ensure Flutter is installed
 2. Run `flutter pub get`
+>>>>>>> 9c07c985272363ef87bf0e0f7e17de7efe297c55
 3. Run `flutter run`
